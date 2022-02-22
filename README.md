@@ -1,2 +1,2 @@
 # RD2022
-1. runningdog https://garam-dkrl0053.github.io/RD2022/01runningdog
+1. runningdog http://garam-dkrl0053.github.io/rd2022/01runningdog
